@@ -1,0 +1,3 @@
+# JS-Fetch_API
+# Fetch API is a new standard for dealing with HTTP requests.
+# This code uses fetch API to get both local and external data...
